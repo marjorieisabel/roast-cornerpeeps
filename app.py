@@ -10,7 +10,7 @@ roasts = [
     "Si {username} banget nge-like tweet, tapi ngapain? Emang udah jadi paparazzi digital?",
     "Update bio tiap minggu, tapi jati diri masih stuck di tweet 3 bulan lalu. {username} kayak akun yang lagi coba cari vibe tapi malah keteteran, kayak charger yang sok kuat tapi cuma tahan 5 menit doang.",
     "Posting tweet vibes santai, tapi kenyataannya {username} lagi drama internal berat yang cuma bisa diungkap lewat emoji dan GIF random. Paham kok, tapi kalau kamu terus-terusan begitu, kapan happy-nya?",
-    "{username} yang doyan banget mention teman di tweet, padahal kadang temenmu cuma baca tanpa bales. Itu sama aja kayak ngirim undangan tapi yang dateng cuma kamu sendiri. Sedih, tapi lucu."
+    "{username} yang doyan banget mention teman di tweet, padahal kadang temenmu cuma baca tanpa bales. Itu sama aja kayak ngirim undangan tapi yang dateng cuma kamu sendiri. Sedih, tapi lucu.",
     "Eh kamu, {username} yang tiap malam ngabisin waktu scrolling X kayak lagi cari harta karun, tapi isinya cuma lihat orang lain makan atau nonton drama. Gak capek ya ngintip hidup orang lain tapi sendiri masih nganggur?",
     "Suka bikin akun baru, akhirnya ketauan juga karena vibes masih sama kayak sebelumnya. Mau punya berapa banyak akun lagi, {username}?",
     "Ngaku deh, {username} tuh akun yang paling sering “online” tapi paling males bales chat. Followers kamu pasti nunggu jawaban kamu kayak nunggu update season baru drama Korea.",
