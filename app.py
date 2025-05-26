@@ -7,7 +7,7 @@ roasts = [
     "Kayaknya {username} dibesarkan oleh netizen X.",
     "Kamu, iya kamu {username} yang suka on tengah malem cuma buat scroll X. Mantengin timeline apa emang lagi nungguin ada yang ngucapin kamu good night baru tidur?",
     "{username}? Auto skip.",
-    "Si {username} banget nge-like tweet, tapi ngapain? Emang udah jadi paparazzi digital?",
+    "Si {username} suka banget nge-like tweet, tapi ngapain? Emang udah jadi paparazzi digital?",
     "Update bio tiap minggu, tapi jati diri masih stuck di tweet 3 bulan lalu. {username} kayak akun yang lagi coba cari vibe tapi malah keteteran, kayak charger yang sok kuat tapi cuma tahan 5 menit doang.",
     "Posting tweet vibes santai, tapi kenyataannya {username} lagi drama internal berat yang cuma bisa diungkap lewat emoji dan GIF random. Paham kok, tapi kalau kamu terus-terusan begitu, kapan happy-nya?",
     "{username} yang doyan banget mention teman di tweet, padahal kadang temenmu cuma baca tanpa bales. Itu sama aja kayak ngirim undangan tapi yang dateng cuma kamu sendiri. Sedih, tapi lucu.",
