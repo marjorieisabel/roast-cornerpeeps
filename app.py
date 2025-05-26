@@ -19,7 +19,18 @@ roasts = [
     "{username} tuh kayak spotlight di panggung kecil, bikin adem tapi gak pernah jadi bintang utama. Followers kamu? Mereka senang, tapi kadang pengen liat kamu lebih ngegas."
 ]
 
-@app.route('/', methods=['GET', 'POST'])
+# Halaman awal redirect ke /follow
+@app.route('/')
+def landing():
+    return render_template('follow.html')
+
+# Halaman follow dengan countdown 25 detik
+@app.route('/follow')
+def follow_page():
+    return render_template('follow.html')
+
+# Halaman input username & hasil roast
+@app.route('/input', methods=['GET', 'POST'])
 def home():
     roast = None
     if request.method == 'POST':
